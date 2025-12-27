@@ -44,4 +44,12 @@ Bu proje, tek bir dosya içerisindeki spagetti kod yapısından, profesyonel ve 
 - Klasör yapısı `src` ve `include` olarak profesyonel standartlara göre ayrıldı.
 - Bellek yönetimi ve varlık (asset) yönetimi optimize edildi.
 
+- ## 🎮 Oyunu İndir ve Oyna
+
+Projeyi derlemekle uğraşmadan direkt oynamak isterseniz, aşağıdaki linkten güncel sürümü indirebilirsiniz:
+
+🚀 **[Highway Racer v3.2 - İndirmek İçin Tıklayın](https://github.com/ardablmezz/Highway-Racer/releases/tag/v3.2)**
+
+*(Not: İndirdiğiniz .rar dosyasını bir klasöre çıkarıp "Highway Racer.exe" dosyasını çalıştırmanız yeterlidir.)*
+
 ---
