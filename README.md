@@ -22,7 +22,7 @@ Bu proje, başlangıç seviyesindeki bir kod yapısının; modern yazılım mima
 ## 🎮 Kurulum ve Çalıştırma
 1. Bu depoyu klonlayın: `git clone https://github.com/kullanici-adin/Highway-Racer.git`
 2. Sisteminizde **SFML 2.6.x** kurulu olduğundan emin olun.
-3. `SFML_PROJECT.sln` dosyasını Visual Studio ile açın.
+3. `Highway-Racer.sln` dosyasını Visual Studio ile açın.
 4. Proje özelliklerinden SFML `include` ve `lib` yollarını kendi sisteminize göre güncelleyin.
 5. `Release` modunda derleyin ve çalıştırın.
 
